@@ -1,8 +1,8 @@
 {
   "name": "anythingmcp",
   "displayName": "AnythingMCP",
-  "version": "1.0.0",
-  "description": "Connect your business apps to Cursor through one hosted MCP server. AnythingMCP turns ERP, accounting, e-commerce, CRM and database APIs (Odoo, SAP, weclapp, Lexware Office, Shopify, Etsy, HubSpot, PostgreSQL and hundreds more) into tools the agent can call, with OAuth sign-in and per-workspace access control.",
+  "version": "1.0.1",
+  "description": "Connect your business apps to Cursor and Grok through one hosted MCP server. 460+ ready connectors: Etsy, Odoo, SAP, Shopify, WooCommerce, Amazon Seller, eBay, Telegram, WhatsApp Business, weclapp, Lexware Office, sevDesk, HubSpot, Salesforce, Printify, Pinterest, Google Sheets, PostgreSQL, MySQL and more, plus any REST, SOAP, GraphQL or OData API as MCP tools. OAuth sign-in, encrypted credentials, confirmation on writes.",
   "author": {
     "name": "helpcode.ai GmbH",
     "email": "info@helpcode.ai"
@@ -11,6 +11,33 @@
   "repository": "https://github.com/HelpCode-ai/anythingmcp-cursor-plugin",
   "license": "MIT",
   "logo": "assets/logo.svg",
-  "keywords": ["mcp", "integrations", "erp", "accounting", "ecommerce", "crm", "database", "odoo", "sap", "shopify", "anythingmcp"],
+  "keywords": [
+    "mcp",
+    "integrations",
+    "etsy",
+    "odoo",
+    "sap",
+    "shopify",
+    "woocommerce",
+    "amazon-seller",
+    "ebay",
+    "telegram",
+    "whatsapp",
+    "weclapp",
+    "lexware-office",
+    "sevdesk",
+    "hubspot",
+    "salesforce",
+    "printify",
+    "pinterest",
+    "google-sheets",
+    "postgresql",
+    "mysql",
+    "erp",
+    "ecommerce",
+    "crm",
+    "accounting",
+    "anythingmcp"
+  ],
   "category": "integrations"
 }

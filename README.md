@@ -1,6 +1,6 @@
 # AnythingMCP for Cursor
 
-AnythingMCP connects the business systems you already use to Cursor through one hosted MCP server. It ships hundreds of ready connectors for ERP, accounting, e-commerce, CRM, marketing and databases (Odoo, SAP, weclapp, Lexware Office, sevDesk, Shopify, Etsy, Amazon Seller, HubSpot, PostgreSQL, MySQL and many more), and it can turn any REST, SOAP, GraphQL or OData API into MCP tools.
+AnythingMCP connects the business systems you already use to Cursor through one hosted MCP server. It ships 460+ ready connectors for ERP, accounting, e-commerce, CRM, messaging and databases, among them Etsy, Odoo, SAP, Shopify, WooCommerce, Amazon Seller, eBay, Telegram, WhatsApp Business, weclapp, Lexware Office, sevDesk, HubSpot, Salesforce, Printify, Pinterest, Google Sheets, PostgreSQL and MySQL, and it can turn any REST, SOAP, GraphQL or OData API into MCP tools.
 
 ## What you can do
 
