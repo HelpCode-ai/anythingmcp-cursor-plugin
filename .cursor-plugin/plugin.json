@@ -1,0 +1,16 @@
+{
+  "name": "anythingmcp",
+  "displayName": "AnythingMCP",
+  "version": "1.0.0",
+  "description": "Connect your business apps to Cursor through one hosted MCP server. AnythingMCP turns ERP, accounting, e-commerce, CRM and database APIs (Odoo, SAP, weclapp, Lexware Office, Shopify, Etsy, HubSpot, PostgreSQL and hundreds more) into tools the agent can call, with OAuth sign-in and per-workspace access control.",
+  "author": {
+    "name": "helpcode.ai GmbH",
+    "email": "info@helpcode.ai"
+  },
+  "homepage": "https://anythingmcp.com",
+  "repository": "https://github.com/HelpCode-ai/anythingmcp-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": ["mcp", "integrations", "erp", "accounting", "ecommerce", "crm", "database", "odoo", "sap", "shopify", "anythingmcp"],
+  "category": "integrations"
+}
